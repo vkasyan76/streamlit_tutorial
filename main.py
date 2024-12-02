@@ -28,4 +28,5 @@ st.divider()
 
 # put images on the screen
 st.image(os.path.join(os.getcwd(), "static", "GEN AI -unsplash.jpg"))
+st.image(os.path.join(os.getcwd(), "static", "GEN AI -unsplash.jpg"), width=50)
 
